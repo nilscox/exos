@@ -16,3 +16,7 @@ Pour chaque exercice, une série de tests permet de vérifier si le comportement
 de la fonction est correct. Les test sont lancés avec la commande `npm test`.
 Pour lancer les tests sur un exercice spécifique, il est possible de le
 préciser avec `npm test <exo>`.
+
+## Exos
+
+- [Loops](./loops)
