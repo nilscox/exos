@@ -1,0 +1,13 @@
+{
+  "name": "exos-js",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node utils/run-tests.js"
+  },
+  "dependencies": {
+    "chai": "*",
+    "glob": "^7.1.2",
+    "mocha": "*"
+  },
+  "license": "ISC"
+}
