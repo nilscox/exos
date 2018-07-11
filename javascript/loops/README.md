@@ -35,8 +35,6 @@ flatten(a);
 // [ 5, 2, 8, 4, 3, 7 ]
 ```
 
-Temps : 25 min
-
 > Bonus: Même but, mais avec un nombre indéterminé de tableaux imbriqués.
 > Hints: recursivité et `instanceof Array`.
 
@@ -60,8 +58,6 @@ fibo(8);
 
 Bonus: faire l'exercice sans appel récursif.
 
-Temps : 20 min
-
 ## isColor
 
 Ecrire la fonction `isColor`, dont le but est de vérifier qu'une string est bien
@@ -83,8 +79,6 @@ isColor('#1234567');
 
 Bonus: accepter les couleurs comportant une valeur alpha (`#RRGGBBAA`).
 
-Temps : 45 min
-
 ## exp
 
 Ecrire la fonction `exp`, dont le but est de calculer une exponentiation, c'est
@@ -99,8 +93,6 @@ exp(8, 4);
 ```
 
 > Note: il faut faire l'exercice sans utiliser l'opérateur `**`.
-
-Temps : 20 min
 
 ## excldisj
 
@@ -117,5 +109,3 @@ const b = [9, 4, 1, 5, 6];
 excldisj(a, b);
 // [2, 8, 3, 7, 9, 1, 6];
 ```
-
-temps : 1h
